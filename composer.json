@@ -1,0 +1,13 @@
+{
+	"name": "blog",
+	"type": "project",
+	"description": "desenvolvendo um blog com doctrine 2",
+	"require": {
+		"doctrine/orm": "2.4.*"
+	},
+	"autoload": {
+		"psr-0":{
+			"": "src/"
+		}
+	}
+}
